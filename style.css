@@ -495,6 +495,7 @@ section .title::after{
     background: none;
 }
 
+
 /* footer section styling */
 footer{
     background: #111;
@@ -508,8 +509,6 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
-
-
 
 
 
@@ -623,3 +622,9 @@ footer span a:hover{
         font-size: 27px;
     }
 }
+
+/* cat image 
+.funktion .images{
+    height: 400px;
+    width: 400px;
+}*/
